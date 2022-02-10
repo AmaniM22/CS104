@@ -26,6 +26,8 @@ if veggie==True and vegan==False and glut==False:
     print("Main street Pizza")
 if veggie==True and vegan==False and glut==True:
     print("Main street Pizza")
+    print("Corner Cafe")
+    print("Chef's Kitchen")
 else:
     print("Corner Cafe")
     print("Chef's Kitchen")
